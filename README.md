@@ -3,6 +3,7 @@ Cách cài đặt website:
 Bước 1: Tải Project về và mở thư mục house-ware-shop trên Visual Studio Code
 
 Bước 2: Mở 3 tab terminal trong Visual Studio Code
+
         Tab thứ nhất gõ lệnh cd house-ware-shop\dashboard
         Tab thứ 2 gõ lệnh cd house-ware-shop\housewareshop\server
         Tab thứ 3 gõ lệnh cd house-ware-shop\housewareshop\client
