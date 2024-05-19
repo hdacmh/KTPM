@@ -12,5 +12,7 @@ Bước 3: Tiếp theo đó gõ lệnh "npm install" cho 3 cả tab termimal. Kh
 Sau khi chạy lệnh xong tab thứ 2 sẽ hiện Mongodb Conected, lúc đó chạy lệnh "npm start" cho 2 tab terminal còn lại. 
 
 Account MongoDB: 
+
 Tài khoản : 2151013025hoang@ou.edu.vn
+
 Mật khẩu : MH#67890
